@@ -49,11 +49,11 @@
                 <input type="text" id="address" name="address" placeholder="Address" required />
             </div>
             <div>
-                <label for="gender">Gender</label>
+                <label for="gender">Gender</label> <h6><i> Male or Female </i></h6>
                 <input type="text" id="gender" name="gender" placeholder="Gender" required />
             </div>
             <div>
-                <label for="birthdate">Birthdate</label>
+                <label for="birthdate">Birthdate</label> <h6> Eg: (MM-DD-YYYY) <i>09-08-0000</i></h6>
                 <input type="text" id="birthdate" name="birthdate" placeholder="Birthdate" required />
             </div>
             <div>
